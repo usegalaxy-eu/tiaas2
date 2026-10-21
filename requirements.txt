@@ -1,4 +1,4 @@
-dateparser==0.7.2
+dateparser==1.2.2
 Django==3.2.25
 django-bootstrap3==21.2
 django-countries==7.5.1
@@ -9,3 +9,4 @@ pycryptodome==3.19.1
 factory_boy
 whitenoise==6.2.0
 sentry-sdk==2.14.0
+setuptools<82
